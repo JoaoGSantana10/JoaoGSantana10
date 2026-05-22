@@ -58,9 +58,9 @@
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.shion.dev/api?username=JoaoGSantana10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=JoaoGSantana10&theme=dracula&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoGSantana10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="140" src="https://github-readme-stats.shion.dev/api?username=JoaoGSantana10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=JoaoGSantana10&theme=dracula&hide_border=false" />
+  <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoGSantana10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 
