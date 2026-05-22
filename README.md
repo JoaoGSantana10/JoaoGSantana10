@@ -19,13 +19,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -48,24 +48,31 @@
 
 ###
 
-<h2 align="left">📊 Estatísticas do GitHub</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoGSantana10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoGSantana10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JoaoGSantana10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JoaoGSantana10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoGSantana10&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
+## 🌐 Socials:
 <div align="left">
-  <a href="joaogsantanadeoliveira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:joaogsantanadeoliveira@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-joaogsantanadeoliveira%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </div>
 
-###
+<h2 align="left">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=JoaoGSantana10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=JoaoGSantana10&theme=dracula&hide_border=false" />
+  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoGSantana10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoGSantana10&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+## 📈 Activity Graph:
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoGSantana10&radius=16&theme=react&area=true" />
+</div>
+
+
