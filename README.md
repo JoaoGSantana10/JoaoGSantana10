@@ -38,6 +38,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/Spring_Web-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Web" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="JPA" />
+  <img src="https://img.shields.io/badge/Lombok-BC4521?style=flat-square&logo=lombok&logoColor=white" alt="Lombok" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square" alt="API REST" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL_Basico-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL básico" />
+  <img src="https://img.shields.io/badge/Redis_Basico-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis básico" />
+  <img src="https://img.shields.io/badge/MongoDB_Basico-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB básico" />
+  <img src="https://img.shields.io/badge/Docker_Basico-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker básico" />
+</p>
+
 ###
 
 ## 🌐 Socials:
